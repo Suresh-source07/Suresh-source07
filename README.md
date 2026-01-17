@@ -34,5 +34,5 @@ AI-powered coaching concept for combat sports training and performance improveme
 ---
 
 ## 📬 Connect
-- LinkedIn: (add link)
-- Email: (add email)
+- LinkedIn: https://www.linkedin.com/in/suresh-suri-70b8a2272/
+- Email: sureshsofficial90@gmail.com
