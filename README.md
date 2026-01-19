@@ -17,6 +17,7 @@ A deployable ML fairness tool that detects potential bias in datasets/models usi
 ### 🤖 DTC College Chatbot
 NLP-based chatbot for answering college-related queries.
 - Repo: https://github.com/Suresh-source07/DTC_college_chatbot
+- Demo: https://huggingface.co/spaces/wiser08/dtc-college-assistant
 
 ### 🥊 AI Combat Coach
 AI-powered coaching concept for combat sports training and performance improvement.
